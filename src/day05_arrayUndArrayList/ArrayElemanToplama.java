@@ -1,4 +1,4 @@
-package day05;
+package day05_arrayUndArrayList;
 
 import java.util.Arrays;
 import java.util.Scanner;

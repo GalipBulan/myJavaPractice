@@ -1,4 +1,4 @@
-package day05;
+package day05_arrayUndArrayList;
 
 public class MaxAndMinNumberInArrays {
 

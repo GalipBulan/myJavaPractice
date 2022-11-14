@@ -1,4 +1,4 @@
-package day05;
+package day05_arrayUndArrayList;
 
 import java.util.ArrayList;
 import java.util.List;
