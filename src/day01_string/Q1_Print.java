@@ -1,4 +1,4 @@
-package day01;
+package day01_string;
 
 public class Q1_Print {
 

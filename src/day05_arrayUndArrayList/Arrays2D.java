@@ -1,5 +1,7 @@
 package day05_arrayUndArrayList;
 
+import java.util.Arrays;
+
 public class Arrays2D {
 
     public static void main(String[] args) {
@@ -20,9 +22,24 @@ public class Arrays2D {
         arr [2][3] ='L';
 
 
+        System.out.println(arr[2][1]); // J
 
+        System.out.println(Arrays.deepToString(arr));
 
+        System.out.println(arr.length);
+        System.out.println(arr[2].length);
 
+        // Array in butun elemanlarini yan yana yazdirin
+
+        for (int i = 0; i <arr.length; i++) {
+
+            for (int j = 0; j <arr[i].length; j++) {
+
+                System.out.print(arr[i][j] + " ");
+
+            }
+
+        }
 
     }
 }
